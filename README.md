@@ -14,6 +14,7 @@ excepturi!
 
 ## Description
 
+This project simulate an a bus tracker movement which follows your cursor position
 Lorem ipsum dolor sit amet consectetur adipisicing elit. At, eaque? Ut
 praesentium expedita atque placeat, possimus beatae ea, totam provident
 necessitatibus assumenda alias, sunt quae aut rem eum magnam dolorem
@@ -30,45 +31,47 @@ excepturi!
 
 ## Installation
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. At, eaque? Ut
-praesentium expedita atque placeat, possimus beatae ea, totam provident
-necessitatibus assumenda alias, sunt quae aut rem eum magnam dolorem
-quisquam sequi suscipit labore illum soluta cum obcaecati! Repudiandae,
-excepturi!
+Clone the repository on your local machine.
+Open a new tab in your browser window. Drag and drop the eyes.js file onto the
+new tab. The project will load an appear in your browser. You will see
+two eyes appear and start following your mouse movements.
 
 ## Usage
 
 ### Usage:
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. At, eaque? Ut
-praesentium expedita atque placeat, possimus beatae ea, totam provident
-necessitatibus assumenda alias, sunt quae aut rem eum magnam dolorem
-quisquam sequi suscipit labore illum soluta cum obcaecati! Repudiandae,
-excepturi!
+Simulate an eye which follos you at any cursor position.
+What are eyes without a nose, what is a nose without a mouth and what is a mouth
+without a face? These are all fantastic questions which we hope to solve in the
+future iterations of the Eye Exercise. By the time we are done it just may need
+to be renamed to the Full Body Exercise. Tracking mouse movements to eventually
+make a full body move across the screen is the goal here.
 
 ### Expected outcomes:
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. At, eaque? Ut
-praesentium expedita atque placeat, possimus beatae ea, totam provident
-necessitatibus assumenda alias, sunt quae aut rem eum magnam dolorem
-quisquam sequi suscipit labore illum soluta cum obcaecati! Repudiandae,
-excepturi!
+See an eye movement which follos your mouse cursor position; follow simulation.
+What are eyes without a nose, what is a nose without a mouth and what is a mouth
+without a face? These are all fantastic questions which we hope to solve in the
+future iterations of the Eye Exercise. By the time we are done it just may need
+to be renamed to the Full Body Exercise. Tracking mouse movements to eventually
+make a full body move across the screen is the goal here.
 
 ## Support
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. At, eaque? Ut
-praesentium expedita atque placeat, possimus beatae ea, totam provident
-necessitatibus assumenda alias, sunt quae aut rem eum magnam dolorem
-quisquam sequi suscipit labore illum soluta cum obcaecati! Repudiandae,
-excepturi!
+For any support, please contact emilnarvz@gmail.com
+What are eyes without a nose, what is a nose without a mouth and what is a mouth
+without a face? These are all fantastic questions which we hope to solve in the
+future iterations of the Eye Exercise. By the time we are done it just may need
+to be renamed to the Full Body Exercise. Tracking mouse movements to eventually
+make a full body move across the screen is the goal here.
 
 ## Roadmap
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. At, eaque? Ut
-praesentium expedita atque placeat, possimus beatae ea, totam provident
-necessitatibus assumenda alias, sunt quae aut rem eum magnam dolorem
-quisquam sequi suscipit labore illum soluta cum obcaecati! Repudiandae,
-excepturi!
+What are eyes without a nose, what is a nose without a mouth and what is a mouth
+without a face? These are all fantastic questions which we hope to solve in the
+future iterations of the Eye Exercise. By the time we are done it just may need
+to be renamed to the Full Body Exercise. Tracking mouse movements to eventually
+make a full body move across the screen is the goal here.
 
 ## Versioning
 
@@ -76,7 +79,7 @@ Version 1.0
 
 ## License
 
-"PacMan Simulation Project" is free, open source, and GPL friendly. You can use it for
+"Real Time Bus Tracker" is free, open source, and GPL friendly. You can use it for
 commercial projects, open source projects, or really almost whatever you want.
 
 ## Team
